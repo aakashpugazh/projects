@@ -1,0 +1,74 @@
+{
+    "sem1":{
+        "Technical English":4,
+        "Engineering Mathematics I":4,
+        "Engineering Physics":3,
+        "Engineering Chemistry":3,
+        "Python Problem Solving and Programming":3,
+        "Basic Science Laboratory":2,
+        "Python Problem Solving and Programming Laboratory":2
+    },
+    "sem2":{
+        "Engineering Mathematics II":4,
+        "Basics of Electical and Measurement Engineering":3,
+        "Engineering Mechanics":4,
+        "Circuit Theory":4,
+        "Semiconductor Physics and Devices":3,
+        "Workshop Practices Laboratory":2,
+        "Electronic Devices and Circuit Theory Laboratory":2
+    },
+    "sem3":{
+        "Linear Algebra and Numerical Methods":4,
+        "Electronic Circuits I":4,
+        "Electromagnetic Fields and Waves":3,
+        "Digital System Design":3,
+        "Signals and Systems":4,
+        "Electronics Design Laboratory":2,
+        "Electrical and Measurements Laboratory":2
+    },
+    "sem4":{
+        "Transmission Lines and Wave Guides":3,
+        "Communication Theory":3,
+        "Electronics Circuits II":4,
+        "Digital Signal Processing":3,
+        "Linear Integrated Circuits":3,
+        "Environmental Sciences":3,
+        "Digital Signal Processing Laboratory":2,
+        "Integrated Circuits Laboratory":2
+    },
+    "sem5":{
+        "Antennas and Wave Propagation":3,
+        "Digital Communication":3,
+        "Microprocessors and Microcontrollers":3,
+        "Control Systems Engineering":3,
+        "Professional Elective I":3,
+        "Principles of Management":3,
+        "Microprocessors and Microcontroller Interfacing Laboratory":2,
+        "Analog and Digital Communication Laboratory":2,
+        "Summer Project":2
+    },
+    "sem6":{
+        "Digital VLSI":3,
+        "Wireless Communication":3,
+        "Communication Networks":3,
+        "Professional Elective II":3,
+        "Open Elective I":3,
+        "Electives Humanities II":3,
+        "VLSI Laboratory":2,
+        "Wireless Communication and Networking Laboratory":2
+    },
+    "sem7":{
+        "Millimeter And Optical Wave Communication":3,
+        "Electives Humanities I":3,
+        "Professional Elective III":3,
+        "Professional Elective IV":3,
+        "Open Elective II":3,
+        "High Frequency Communication Laboratory":2,
+        "Project I":3
+    },
+    "sem8":{
+        "Professional Elective V":3,
+        "Professional Elective VI":3,
+        "Project II":8
+    }
+}
